@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tulio-olivieri-a753ba191/)](https://www.linkedin.com/in/tulio-olivieri-a753ba191/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuliolivieri@gmail.com)](mailto:tuliolivieri@gmail.com)
  
-[![Tulio Olivieri GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuliolivieri)](https://github.com/anuraghazra/github-readme-stats)
+[![Tulio Olivieri GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuliolivieri&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
