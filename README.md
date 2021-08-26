@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuliolivieri@gmail.com)](mailto:tuliolivieri@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuliolivieri&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Tulio Olivieri GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuliolivieri&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Tulio Olivieri GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuliolivieri&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
