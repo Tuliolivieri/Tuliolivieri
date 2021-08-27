@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="images/r_536209_rcy6p.gif" />
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tuliolivieri)](https://github.com/Tuliolivieri)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuliolivieri/)](https://www.linkedin.com/in/tuliolivieri/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuliolivieri@gmail.com)](mailto:tuliolivieri@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Tuliolivieri-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tuliolivieri)](https://github.com/Tuliolivieri)
+[![Linkedin Badge](https://img.shields.io/badge/-Tulio%20Olivieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuliolivieri/)](https://www.linkedin.com/in/tuliolivieri/)
+[![Gmail Badge](https://img.shields.io/badge/-tuliolivieri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuliolivieri@gmail.com)](mailto:tuliolivieri@gmail.com)
 
 - 🔭 I’m currently working on [@betrybe](https://www.betrybe.com/)
 - 🌱 I’m currently learning Python
