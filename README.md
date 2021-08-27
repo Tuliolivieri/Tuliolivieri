@@ -6,6 +6,9 @@
 Here are some ideas to get you started:
 -->
 ## About me 
+
+<img align="right" src="images/r_536209_rcy6p.gif" />
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tuliolivieri)](https://github.com/Tuliolivieri)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuliolivieri/)](https://www.linkedin.com/in/tuliolivieri/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuliolivieri@gmail.com)](mailto:tuliolivieri@gmail.com)
@@ -14,6 +17,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 💬 Ask me about development, technology, hardware, education, cars and randomness
 - 📫 How to reach me: @tuliolivieri on the social medias
+
+<!--![alt text](images/r_536209_rcy6p.gif)-->
 <!--- ⚡ Fun fact: ...
 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
