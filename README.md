@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [@betrybe](https://www.betrybe.com/)
 - 🌱 I’m currently learning Python
 - 💬 Ask me about development, technology, hardware and education.
-- 📫 How to reach me: @tuliolivieri on the social medias
+- 📫 How to reach me: @tuliolivieri on social media
 
 <!--![alt text](images/r_536209_rcy6p.gif)-->
 <!--- ⚡ Fun fact: ...
