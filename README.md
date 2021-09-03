@@ -4,9 +4,7 @@
 
 <img align="right" src="images/r_536209_rcy6p.gif" />
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tuliolivieri)](https://github.com/Tuliolivieri)
-[![Linkedin Badge](https://img.shields.io/badge/-Tulio%20Olivieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuliolivieri/)](https://www.linkedin.com/in/tuliolivieri/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuliolivieri@gmail.com)](mailto:tuliolivieri@gmail.com)
+<a href="https://github.com/Tuliolivieri"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://www.linkedin.com/in/tuliolivieri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:tuliolivieri@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <!--
 I live in Regente Feijó, a small town in São Paulo, Brazil. I'm currently working as an Instructor at Trybe, in the Computer Science module. In the development market, I worked for 5 months with ASP.NET web development. I'm currentrly learning more about Python. If you want to talk to me, search for @tuliolivieri on social media.
