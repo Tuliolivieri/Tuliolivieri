@@ -13,7 +13,7 @@ I live in Regente Feijó, a small town in São Paulo, Brazil. I'm currently work
 
 - 🏠 I live in Regente Feijó, a small town in Brazil
 - 💻 I’m currently working as an Back-end Developer at [@Grupo-GCB](https://gcbinvestimentos.com) 
-- 🌱 I’m currently learning Java and .Net/C# and coursing an Software Engineering MBA 
+- 🌱 I’m currently learning Node.js, Java and coursing an Software Engineering MBA 
 - 💬 Ask me about development, technology and hardware
 - 📫 How to reach me: @tuliolivieri on social media
 
