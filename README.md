@@ -7,8 +7,10 @@
 <a href="https://github.com/Tuliolivieri"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://www.linkedin.com/in/tuliolivieri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:tuliolivieri@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 - 🏠 I live in Regente Feijó, a small town in Brazil
+- 👨‍🎓 I have a bachelor's degree in Computer Science, with a specialization in Software Engineering
+- 👨‍🎓 I'm currently studying a Master's degree in Computer Science
 - 💻 I’m currently working as an Back-end Developer at [@Grupo-GCB](https://gcbinvestimentos.com) 
-- 🌱 I’m currently learning Node.js, Java and coursing an Software Engineering MBA 
+- 🌱 I’m currently learning Node.js and Java
 - 💬 Ask me about development, technology and hardware
 - 📫 How to reach me: @tuliolivieri on social media
 
