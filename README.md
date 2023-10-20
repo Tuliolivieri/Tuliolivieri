@@ -3,7 +3,7 @@
 ## About me
 
 <!-- <img align="right" src="images/r_536209_rcy6p.gif" /> -->
-<a href="https://app.daily.dev/tuliolivieri"><img src="https://api.daily.dev/devcards/4e0f996c8b4844eaba0d2bfff493a2cf.png?r=ztd" width="400" alt="Tulio Paulucci Olivieri's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/tuliolivieri"><img src="https://api.daily.dev/devcards/4e0f996c8b4844eaba0d2bfff493a2cf.png?r=vwo" width="400" alt="Tulio Paulucci Olivieri's Dev Card" align="right"/></a>
 
 <a href="https://github.com/Tuliolivieri"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://www.linkedin.com/in/tuliolivieri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:tuliolivieri@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
