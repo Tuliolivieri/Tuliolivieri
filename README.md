@@ -26,5 +26,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuliolivieri&theme=chartreuse-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![Tuliolivieri's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tuliolivieri&layout=compact)](https://github.com/Tuliolivieri/Tuliolivieri)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
