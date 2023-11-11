@@ -24,7 +24,7 @@
 #### Databases:
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><img alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&" /><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuliolivieri&theme=chartreuse-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuliolivieri&theme=chartreuse-dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tuliolivieri's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tuliolivieri&layout=compact&theme=tokyonight)](https://github.com/Tuliolivieri/Tuliolivieri)
 
