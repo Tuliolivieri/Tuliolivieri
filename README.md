@@ -9,9 +9,9 @@
 
 - 🏠 I live in Regente Feijó, a small town in Brazil
 - 👨‍🎓 I have a bachelor's degree in Computer Science, with a specialization in Software Engineering
-- 👨‍🎓 I'm currently studying a Master's degree in Computer Science
-- 💻 I’m currently working as an Back-end Developer at [@Grupo-GCB](https://gcbinvestimentos.com) 
-- 🌱 I’m currently learning Node.js and Java
+<!--- 👨‍🎓 I'm currently studying a Master's degree in Computer Science-->
+- 💻 I’m currently working as an Sr Software Engineer at [@Grupo-GCB](https://gcbinvestimentos.com) 
+- 🌱 I’m currently learning Node.js
 - 💬 Ask me about development, technology and hardware
 - 📫 How to reach me: @tuliolivieri on social media
 
